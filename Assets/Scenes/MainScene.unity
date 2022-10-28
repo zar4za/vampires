@@ -1332,9 +1332,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30ecde3bafefb784a8e6f4484e4625ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _camera: {fileID: 963194227}
   _hidhlight: {fileID: 2100000, guid: 7881cfc2148c4a74c8d68469940e242b, type: 2}
   _shadow: {fileID: 729812479}
+  _speed: 2
 --- !u!136 &205113616
 CapsuleCollider:
   m_ObjectHideFlags: 0
